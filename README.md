@@ -11,6 +11,6 @@
 
 
 1. Fork the repository.
-2. Open with the desired text editor ( prefred VS Code or Pygames)
+2. Open with the desired text editor ( prefred VS Code or Pycharm)
 3. update the paths of resorces used in the function .
 4. Run it.
